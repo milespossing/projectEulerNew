@@ -6,4 +6,4 @@ Oh boy here we go again!
 
 | Problem | Purescript |
 | --- | --------------|
-| 001 | :Check: |
+| 001 | :white_check_mark: |
