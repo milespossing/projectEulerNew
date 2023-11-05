@@ -4,6 +4,6 @@ Oh boy here we go again!
 
 ## Problems
 
-| Problem | Purescript |
+| Problem | Purescript :spaghetti: |
 | ---:|:--------------:|
 | 001 | :white_check_mark: |
